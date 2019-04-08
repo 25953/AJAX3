@@ -1,0 +1,18 @@
+* {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+	margin: 0;
+}
+
+header {
+	background-color: #e2e2e2;
+	color: #000;
+	padding: 10px;
+	border-bottom: solid 2px black;
+}
+
+input {
+	font-size: 16px;
+}
